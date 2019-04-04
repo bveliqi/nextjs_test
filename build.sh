@@ -1,0 +1,1 @@
+ npm run build && npm run export && serve -p 8080 out/
